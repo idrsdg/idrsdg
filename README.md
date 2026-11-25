@@ -1,6 +1,6 @@
 # İdris Dağ
 
-Backend software engineer with 5 years in banking and healthcare. These days I build and ship my own products end to end, working AI-native with Claude Code.
+Backend software engineer with 5 years in banking and healthcare. These days I build and ship my own products end to end, working AI-native.
 
 ### Live products
 
@@ -16,6 +16,6 @@ Backend software engineer with 5 years in banking and healthcare. These days I b
 
 - **At work:** C# / .NET, Java / Spring Boot, PostgreSQL, Oracle, Redis, Kafka, RabbitMQ, Docker, Azure DevOps CI/CD, xUnit and Testcontainers
 - **In my products:** TypeScript, Node.js, Next.js, Claude and OpenAI APIs
-- **How I work:** Claude Code every day, with CLAUDE.md context, custom skills and MCP tools. I review every diff and let tests and CI decide what ships.
+- **How I work:** AI coding agents every day, with project context files, custom skills and MCP tools. I review every diff and let tests and CI decide what ships.
 
 [LinkedIn](https://www.linkedin.com/in/idris-dag) · [mountlayer.com](https://mountlayer.com)
